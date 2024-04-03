@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\study\\unreal\\unreal_study_part2\\chapter7\\arenabattle_chapter7\\plugins\\developer\\riderlink\\source\\rd\\src\\rd_gen_cpp\\src\\rdtextbuffer.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "d:\\study\\unreal\\unreal_study_part2\\chapter7\\arenabattle_chapter7\\plugins\\developer\\riderlink\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\rd\\definitions.h",
+            "d:\\study\\unreal\\unreal_study_part2\\chapter7\\arenabattle_chapter7\\plugins\\developer\\riderlink\\source\\rd\\src\\rd_gen_cpp\\src\\rdtextbuffer.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
